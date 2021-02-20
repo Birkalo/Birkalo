@@ -4,16 +4,21 @@
 
 - 📫 You can find me here [LinkedIn](https://www.linkedin.com/in/toby-birkett/)
 
+
 ## Connect with me
-<a href="https://twitter.com/Birkalo">
-  <img alt="birkalo | Twitter" align="left" width="26px" style="margin-right:20px"   
-  src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
-</a>
-  
-<a href="https://gitlab.com/Birkalo">
-  <img alt="birkalo | Gitlab" align="left" width="26px" style="margin-right:15px" 
-  src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
-</a>
+<div>
+  <a href="https://twitter.com/Birkalo">
+    <img alt="birkalo | Twitter" align="left" width="26px" style="margin-right:20px"   
+    src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/twitter.svg" />
+  </a>
+
+  <a href="https://gitlab.com/Birkalo">
+    <img alt="birkalo | Gitlab" align="left" width="26px" style="margin-right:15px" 
+    src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
+  </a>
+</div>
+<br>
+
 
 ## Interests
 - Avid follower of the **C**loud **N**ative **C**omputing **F**oundation ([CNCF](https://www.cncf.io/))
