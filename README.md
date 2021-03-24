@@ -23,7 +23,7 @@
 ## Interests
 - Avid follower of the **C**loud **N**ative **C**omputing **F**oundation ([CNCF](https://www.cncf.io/))
 - Big believer in free, and open source software distribution
-- Self hosting and homelab enthusiast (check out [my profile](https://gitlab.com/Birkalo) for configurations!)
+- Self hosting and homelab enthusiast (check out [my profile](https://gitlab.com/Birkalo/homelab-config) for configurations!)
 
 ## 👨‍💻 Tech Stack
 
